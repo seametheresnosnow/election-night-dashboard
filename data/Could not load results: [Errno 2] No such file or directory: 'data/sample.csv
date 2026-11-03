@@ -1,0 +1,7 @@
+timestamp_utc,region,state,race,geography,candidate,party,votes
+2026-11-03T22:00:00Z,National,PA,Example Senate Race,Example County A,Candidate A,Democratic,12000
+2026-11-03T22:00:00Z,National,PA,Example Senate Race,Example County A,Candidate B,Republican,10500
+2026-11-03T22:00:00Z,Maine,ME,Example Maine Senate Race,Example Town,Candidate A,Democratic,1500
+2026-11-03T22:00:00Z,Maine,ME,Example Maine Senate Race,Example Town,Candidate B,Republican,1300
+2026-11-03T22:00:00Z,Vermont,VT,Example Vermont Governor Race,Example Town,Candidate A,Democratic,900
+2026-11-03T22:00:00Z,Vermont,VT,Example Vermont Governor Race,Example Town,Candidate B,Republican,750
