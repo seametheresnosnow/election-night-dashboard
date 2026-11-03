@@ -1,0 +1,7 @@
+timestamp_utc,region,state,race,geography,candidate,party,votes
+2026-11-03T22:00:00Z,National,OH,Illustrative US Senate race,Example County A,Example Candidate A,Democratic,1250
+2026-11-03T22:00:00Z,National,OH,Illustrative US Senate race,Example County A,Example Candidate B,Republican,1100
+2026-11-03T22:00:00Z,Maine,ME,Illustrative Maine Senate race,Example County A,Example Candidate A,Democratic,800
+2026-11-03T22:00:00Z,Maine,ME,Illustrative Maine Senate race,Example County A,Example Candidate B,Republican,950
+2026-11-03T22:00:00Z,Vermont,VT,Illustrative Vermont race,Example Town A,Example Candidate A,Democratic,400
+2026-11-03T22:00:00Z,Vermont,VT,Illustrative Vermont race,Example Town A,Example Candidate B,Republican,275
